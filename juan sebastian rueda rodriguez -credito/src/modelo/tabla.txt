@@ -1,0 +1,12 @@
+cuota 1  saldo pesos 11255  cuota pesos 1082  intereses 115,96  amortizacion 966,35
+cuota 2  saldo pesos 10279  cuota pesos 1082  intereses 106,79  amortizacion 975,52
+cuota 3  saldo pesos 9294  cuota pesos 1082  intereses 97,54  amortizacion 984,78
+cuota 4  saldo pesos 8300  cuota pesos 1082  intereses 88,19  amortizacion 994,12
+cuota 5  saldo pesos 7297  cuota pesos 1082  intereses 78,76  amortizacion 1003,56
+cuota 6  saldo pesos 6284  cuota pesos 1082  intereses 69,24  amortizacion 1013,08
+cuota 7  saldo pesos 5261  cuota pesos 1082  intereses 59,62  amortizacion 1022,69
+cuota 8  saldo pesos 4228  cuota pesos 1082  intereses 49,92  amortizacion 1032,4
+cuota 9  saldo pesos 3186  cuota pesos 1082  intereses 40,12  amortizacion 1042,19
+cuota 10  saldo pesos 2134  cuota pesos 1082  intereses 30,23  amortizacion 1052,08
+cuota 11  saldo pesos 1072  cuota pesos 1082  intereses 20,25  amortizacion 1062,07
+cuota 12  saldo pesos 0  cuota pesos 1082  intereses 10,17  amortizacion 1072,14
