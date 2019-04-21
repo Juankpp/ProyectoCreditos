@@ -8,7 +8,7 @@ import modelo.PeriodoException;
 public class Controlador 
 {
   private Mundo mu;
-  private Interfaz  in;
+  private Interfaz in;
   private String tabla;
   
  public Controlador() 
@@ -42,6 +42,7 @@ public class Controlador
 	} catch (InversionException e) {
 		
 		e.printStackTrace();
+		System.out.println("error");
 	}
 	
 	
